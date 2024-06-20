@@ -1,0 +1,37 @@
+
+
+## The initial problem:
+##The HR department asked for an easy way to organize employee data. The idea is to store each person's data in a separate file named after them so they can be easily found and retrieved. 
+
+### Task 1
+##Please create a python routine that generates a '.txt' file for each employee named after him.
+
+
+## Additional request made by HR
+##Out of curiosity, HR would like to discover which are the 5 most frequent first names on this list.
+
+### Task 2
+##Please print out top 5 frequent first names and the respective frequency.
+
+
+## Further requirement
+##They would also like to organize these files in a intuitive way, and group them in folders according to the first letter of each person's surname.
+
+### Task 3
+##Please create a folder for each letter and move the previously created files in the respective folder according to the person's surname. For example, "Jasen_Kerluke" should be moved to folder "J".
+
+##NOTE: folders usually do not appear in the filesystem when they do not contain any files / objects.
+
+
+
+    
+ 
+
+
+
+
+
+
+
+
+
